@@ -1,0 +1,6 @@
+!.htaccess
+!.gitignore
+!.gitmodules
+.*
+_*
+
